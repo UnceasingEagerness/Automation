@@ -1,0 +1,35 @@
+project:
+
+  name: MARL
+
+repository:
+
+  url: git@github.com:YOUR_USERNAME/final_marl.git
+
+  branch: main
+
+local:
+
+  path: /mnt/data/USERNAME/Marl/final_marl
+
+training:
+
+  command: sbatch train.slurm
+
+outputs:
+
+  experiments: experiments/
+
+  checkpoints: checkpoints/
+
+monitoring:
+
+  wandb: true
+
+notifications:
+
+  telegram: true
+
+upload:
+
+  google_drive: true

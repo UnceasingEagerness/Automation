@@ -1,0 +1,8 @@
+GitPython
+PyYAML
+requests
+watchdog
+rich
+psutil
+schedule
+python-dotenv

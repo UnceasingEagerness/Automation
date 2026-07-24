@@ -1,0 +1,21 @@
+poll_interval: 60
+
+experiments_root: experiments/
+
+log_level: INFO
+
+notifications:
+
+  telegram: false
+
+  discord: false
+
+uploads:
+
+  google_drive: false
+
+  onedrive: false
+
+monitoring:
+
+  wandb: true
