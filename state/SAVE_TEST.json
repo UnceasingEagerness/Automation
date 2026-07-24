@@ -1,0 +1,10 @@
+{
+    "project_name": "SAVE_TEST",
+    "status": "IDLE",
+    "last_seen_commit": null,
+    "running_commit": null,
+    "slurm_job_id": null,
+    "last_check": null,
+    "last_started": null,
+    "last_finished": null
+}

@@ -1,0 +1,10 @@
+{
+    "project_name": "WATCHER_TEST",
+    "status": "IDLE",
+    "last_seen_commit": "commit2",
+    "running_commit": null,
+    "slurm_job_id": null,
+    "last_check": "2026-07-24T13:27:04",
+    "last_started": null,
+    "last_finished": null
+}

@@ -1,0 +1,14 @@
+{
+    "project": "TEST",
+    "commit": "abc123",
+    "branch": null,
+    "backend": "slurm",
+    "run_id": "12345",
+    "status": "FAILED",
+    "started": null,
+    "finished": "2026-07-24T18:26:19.372159",
+    "duration_seconds": null,
+    "checkpoint": null,
+    "artifacts": [],
+    "metadata": {}
+}

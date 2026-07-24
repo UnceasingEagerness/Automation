@@ -1,0 +1,10 @@
+{
+    "project_name": "PERSIST_TEST",
+    "status": "RUNNING",
+    "last_seen_commit": null,
+    "running_commit": "abcdef123",
+    "slurm_job_id": "12345",
+    "last_check": null,
+    "last_started": null,
+    "last_finished": null
+}

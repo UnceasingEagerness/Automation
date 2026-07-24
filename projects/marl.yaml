@@ -10,7 +10,8 @@ repository:
 
 local:
 
-  path: /mnt/data/USERNAME/Marl/final_marl
+  path: /home/trizzz/AUV_Project/RLSim/final_marl
+  #path: /mnt/data/rajinim/Marl/final_marl
 
 training:
 
